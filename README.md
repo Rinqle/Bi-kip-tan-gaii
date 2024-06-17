@@ -19,7 +19,8 @@
 |       Bài tập     | Link|     Code        | Độ phức tạp     |
 | :------------:|:-------------:|:-------------:|:-----:|
 |      Kiểm tra số nguyên tố    |        https://luyencode.net/problem/vl11       |  deo co    |   O(sqrt(n))|
-|             |             |     |
+|       Thuật toán Sàng nguyên tố      |        https://luyencode.net/problem/sangnt     | deo co    | O(n.log(n))|
+
 |              |             |      |
 
 
