@@ -14,7 +14,7 @@
 - Sàng eratosthenes ( áp dụng bài toán xac định tính nguyên tố của nhiều số)
   - Link tài liệu : https://youtu.be/TTV8r1NCzo0?si=rkqsYSPHQ0vORwk6
   - Bài tập
-  |       Bài tập      |      Code       | 
+|       Bài tập      |      Code       | 
 | :------------:|:-------------:|
 |    3          |        2      |  
 |     2         |        4      |  
