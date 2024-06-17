@@ -16,9 +16,9 @@
 
 
  
-|       Bài tập     |     Code        | Độ phức tạp     |
-| :------------:|:-------------:|:-----:|
-|    https://luyencode.net/problem/vl11         |        2      |  1    |
+|       Bài tập     | Link|     Code        | Độ phức tạp     |
+| :------------:|:-------------:|:-------------:|:-----:|
+|      Kiểm tra số nguyên tố    |        https://luyencode.net/problem/vl11       |  1    |   O(sqrt(n))|
 |     2         |        4      |   1   |
 |     a         | b             |    d  |
 
