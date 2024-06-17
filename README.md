@@ -15,11 +15,12 @@
   - Link tài liệu : https://youtu.be/TTV8r1NCzo0?si=rkqsYSPHQ0vORwk6
 
 
-|       Bài tập      |      Code       | 
-| :------------:|:-------------:|
-|    3          |        2      |  
-|     2         |        4      |  
-|     a         | b             |
+ 
+|       Bài tập     |     Code        | Độ phức tạp     |
+| :------------:|:-------------:|:-----:|
+|    https://luyencode.net/problem/vl11         |        2      |  1    |
+|     2         |        4      |   1   |
+|     a         | b             |    d  |
 
 
 
