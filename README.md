@@ -26,6 +26,7 @@
 |       Thuật toán Sàng nguyên tố      |        https://luyencode.net/problem/sangnt    | deo co                       | O(n.log(n))|
 |         Số siêu nguyên tố            |     https://luyencode.net/problem/ptit057      |   https://ideone.com/Dh7Smf  |  O(n.log(n)) |
 
+## Mảng cộng dồn (Prefix Sum)
 
 
 
