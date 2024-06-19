@@ -7,7 +7,7 @@
 - Câu lệnh if then
 - Các phép so sánh
 ## Tài liệu về phân tích độ phức tạp
- Độ phức tạp thời gian (VNOI Wiki)
+ Độ phức tạp thời gian (VNOI Wiki) (https://wiki.vnoi.info/vi/algo/basic/computational-complexity )
 ## Tiếp theo ta làm quen với các bài toán tìm ước:
 - Tìm ước bằng cách sàn đến căn của 1 số n
 ## Làm quen với thuật toán chứng minh nguyên tố:
