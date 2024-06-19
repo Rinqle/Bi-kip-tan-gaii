@@ -27,6 +27,8 @@
 |         Số siêu nguyên tố            |     https://luyencode.net/problem/ptit057      |   https://ideone.com/Dh7Smf  |  O(n.log(n)) |
 
 ## Mảng cộng dồn (Prefix Sum)
+## Tìm kiếm nhị phân (Binary Search)
+## Làm quen với vector,map
 
 
 
