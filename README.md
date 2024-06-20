@@ -1,5 +1,8 @@
 # Bi-kip-tan-gai
-
+# Lịch học
+  Thứ 2-4-7 rảnh thì thêm buổi 
+  Vì sau mỗi buổi học đều có 1 ngày nghỉ nên khi đến buổi học mới phảu làm qua các bài tập đã giao (cứ mỗi bài 2k). Trong trường hợp bài quá nhiều thì chỉ cần hoàn thành 1 số bài được chỉ định
+  
 ## Để làm quen với tin học, trước ta cần biết những điều cơ bản sau:
 - Cấu trúc chương trình
 - Các phép toán cơ bản
