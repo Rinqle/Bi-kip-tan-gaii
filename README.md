@@ -25,7 +25,7 @@
 | :------------:|:-------------:|:-------------:|:-----:|
 |      Kiểm tra số nguyên tố           |        https://luyencode.net/problem/vl11      |https://ideone.com/9zfcik     |   O(sqrt(n))|
 |     Tìm ước nguyên tố lớn nhất       |https://luyencode.net/problem/uocmax            | deo co                       | O(sqrt(n))|
-|   Số ước nguyên tố                   |https://luyencode.net/problem/thpttd_67         |https://ideone.com/nUDUUB                      |      O(sqrt(n))|
+|   Số ước nguyên tố                   |https://luyencode.net/problem/thpttd_67         |https://ideone.com/uIhEid                     |      O(sqrt(n))|
 |       Thuật toán Sàng nguyên tố      |        https://luyencode.net/problem/sangnt    | deo co                       | O(n.log(n))|
 |         Số siêu nguyên tố            |     https://luyencode.net/problem/ptit057      |   https://ideone.com/Dh7Smf  |  O(n.log(n)) |
 
