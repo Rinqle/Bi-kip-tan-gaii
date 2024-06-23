@@ -16,7 +16,7 @@
 ## Bài tập phụ :
 ### Đếm số lần xuất hiện 
 |       Bài tập     | Link|     Code        | Độ phức tạp     |
-| :------------:|:-------------:|:-------------:|:-----:|
+| :------------:|:-------------:|:-------------:|:-----:|:-----:|
 |Phần tử xuất hiện nhiều nhất| https://luyencode.net/problem/maxfreq | deo co |
 
 ## Làm quen với thuật toán chứng minh nguyên tố:
