@@ -15,7 +15,7 @@
 - Tìm ước bằng cách sàn đến căn của 1 số n
 ## Bài tập phụ :
 ### Đếm số lần xuất hiện 
-|       Bài tập     | Link|     Code        | Độ phức tạp     |
+|       Bài tập     | Link      |     Code        | Độ phức tạp     | Đã nộp 
 | :------------:|:-------------:|:-------------:|:-----:|:-----:|
 |Phần tử xuất hiện nhiều nhất| https://luyencode.net/problem/maxfreq | deo co |
 
@@ -28,7 +28,7 @@
 
  
 |       Bài tập     | Link|     Code        | Độ phức tạp     | Đã nộp |
-| :------------:|:-------------:|:-------------:|:-----:|
+| :------------:|:-------------:|:-------------:|:-----:|:-----:|
 |      Kiểm tra số nguyên tố           |        https://luyencode.net/problem/vl11      |https://ideone.com/9zfcik     |   O(sqrt(n))|
 |     Tìm ước nguyên tố lớn nhất       |https://luyencode.net/problem/uocmax            |https://ideone.com/IktqzN     | O(sqrt(n))|
 |   Số ước nguyên tố                   |https://luyencode.net/problem/thpttd_67         |https://ideone.com/uIhEid     |      O(sqrt(n))|
