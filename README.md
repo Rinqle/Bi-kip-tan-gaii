@@ -14,7 +14,7 @@
 ## Tiếp theo ta làm quen với các bài toán tìm ước:
 - Tìm ước bằng cách sàn đến căn của 1 số n
 ## Bài tập phụ :
-# Đếm số lần xuất hiện 
+### Đếm số lần xuất hiện 
 |       Bài tập     | Link|     Code        | Độ phức tạp     |
 | :------------:|:-------------:|:-------------:|:-----:|
 |Phần tử xuất hiện nhiều nhất| https://luyencode.net/problem/maxfreq | deo co |
