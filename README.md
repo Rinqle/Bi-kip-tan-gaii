@@ -35,7 +35,7 @@
 |       Thuật toán Sàng nguyên tố      |        https://luyencode.net/problem/sangnt    | deo co                       | O(n.log(n))      | Thảo |
 |         Số siêu nguyên tố            |     https://luyencode.net/problem/ptit057      |   https://ideone.com/Dh7Smf  |  O(n.log(n))     | Thảo |
 |     Tìm số nguyên tố trong mảng                   |https://luyencode.net/problem/vt09 | deo co                       |                  |
-
+|  Đếm số nguyên tố                    |https://luyencode.net/problem/mk119snt          |
 ## Mảng cộng dồn (Prefix Sum)
 ## Tìm kiếm nhị phân (Binary Search)
 ## Làm quen với vector,map
