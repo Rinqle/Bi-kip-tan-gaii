@@ -1,6 +1,6 @@
 # Bi-kip-tan-gai
 # Lịch học
- - Thứ 2-4-7 rảnh thì thêm buổi 
+ - Đổi lại
 - Vì sau mỗi buổi học đều có 1 ngày nghỉ nên khi đến buổi học mới phảu làm qua các bài tập đã giao (cứ mỗi bài 2k). Trong trường hợp bài quá nhiều thì chỉ cần hoàn thành 1 số bài được chỉ định
   
 ## Để làm quen với tin học, trước ta cần biết những điều cơ bản sau:
@@ -13,6 +13,12 @@
  Độ phức tạp thời gian (VNOI Wiki) (https://wiki.vnoi.info/vi/algo/basic/computational-complexity )
 ## Tiếp theo ta làm quen với các bài toán tìm ước:
 - Tìm ước bằng cách sàn đến căn của 1 số n
+## Bài tập phụ :
+# Đếm số lần xuất hiện 
+|       Bài tập     | Link|     Code        | Độ phức tạp     |
+| :------------:|:-------------:|:-------------:|:-----:|
+|Phần tử xuất hiện nhiều nhất| https://luyencode.net/problem/maxfreq | deo co |
+
 ## Làm quen với thuật toán chứng minh nguyên tố:
 - Sàng từ 1 tới n, nếu có nhiều hơn 2 ước thì n không phải nguyên tố (thuật toán đơn giản)
 - Sàng từ 1 đến căn của n, nếu n là số chính phương ta trừ đi 1 trường hợp ước (dùng cho các bài toán xác định tính nguyên tố của ít số)
