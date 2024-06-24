@@ -29,11 +29,11 @@
  
 |       Bài tập     | Link|     Code        | Độ phức tạp     | Đã nộp |
 | :------------:|:-------------:|:-------------:|:-----:|:-----:|
-|      Kiểm tra số nguyên tố           |        https://luyencode.net/problem/vl11      |    |   O(sqrt(n))     | Thảo |
-|     Tìm ước nguyên tố lớn nhất       |https://luyencode.net/problem/uocmax            |   | O(sqrt(n))       | Chip |
-|   Số ước nguyên tố                   |https://luyencode.net/problem/thpttd_67         |   |      O(sqrt(n))  | Thảo |
+|      Kiểm tra số nguyên tố           |        https://luyencode.net/problem/vl11      |  co cai l |   O(sqrt(n))     | Thảo |
+|     Tìm ước nguyên tố lớn nhất       |https://luyencode.net/problem/uocmax            | co cai l  | O(sqrt(n))       | Chip |
+|   Số ước nguyên tố                   |https://luyencode.net/problem/thpttd_67         |  co  cai l |      O(sqrt(n))  | Thảo |
 |       Thuật toán Sàng nguyên tố      |        https://luyencode.net/problem/sangnt    | deo co                       | O(n.log(n))      | Thảo |
-|         Số siêu nguyên tố            |     https://luyencode.net/problem/ptit057      |   |  O(n.log(n))     | Thảo |
+|         Số siêu nguyên tố            |     https://luyencode.net/problem/ptit057      |   co cai l|  O(n.log(n))     | Thảo |
 |     Tìm số nguyên tố trong mảng                   |https://luyencode.net/problem/vt09 | deo co                       |                  |
 |  Đếm số nguyên tố                    |https://luyencode.net/problem/mk119snt          |
 ## Mảng cộng dồn (Prefix Sum)
