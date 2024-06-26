@@ -31,8 +31,8 @@
 
 
  
-|       Bài tập     | Link|     Code        | Độ phức tạp     | Thuật toán | Đã nộp|
-| :------------:|:-------------:|:-------------:|:-----:|:-----:|:-----:|
+|       Bài tập     | Link      |     Code        | Độ phức tạp     | Đã nộp |
+| :------------:|:-------------:|:-------------:|:-----:|:-----:|
 |      Kiểm tra số nguyên tố           |        https://luyencode.net/problem/vl11      |  co cai l |   O(sqrt(n))     | |Thảo |
 |     Tìm ước nguyên tố lớn nhất       |https://luyencode.net/problem/uocmax            | co cai l  | O(sqrt(n))       | |Chip |
 |   Số ước nguyên tố                   |https://luyencode.net/problem/thpttd_67         |  co  cai l |      O(sqrt(n))  | |Thảo |
