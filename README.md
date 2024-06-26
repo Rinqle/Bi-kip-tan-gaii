@@ -44,7 +44,7 @@
 - Mảng cộng dồn giúp ta dễ dàng tìm tổng của 1 đoạn dễ dàng, từ đó giúp ta giải các bài toán tìm tổng lớn nhất, tổng bé nhất, ...
 |       Bài tập     | Link      |     Code        | Độ phức tạp     | Đã nộp |
 | :------------:|:-------------:|:-------------:|:-----:|:-----:|
-|Duyên Hải 2021 - Khối 10 - Bài 1 - Bài dễ| https://oj.vnoi.info/problem/dhbb21_easytask|  deo co | O(n)  | | 
+|Duyên Hải 2021 - Khối 10 - Bài 1 - Bài dễ| https://oj.vnoi.info/problem/dhbb21_easytask|  deo co | O(n)  | 
 ## Tìm kiếm nhị phân (Binary Search)
 ## Làm quen với vector,map
 
