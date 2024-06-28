@@ -3,9 +3,9 @@
  - Đổi lại
 - Vì sau mỗi buổi học đều có 1 ngày nghỉ nên khi đến buổi học mới phảu làm qua các bài tập đã giao (cứ mỗi bài 2k). Trong trường hợp bài quá nhiều thì chỉ cần hoàn thành 1 số bài được chỉ định
 # Phạt :
- - Thảo
- - Chip 4k (2 lỗi)
- - Quang 4k (2 lỗi )
+ - Thảo  2k (1 lỗi )
+ - Chip  6k (3 lỗi)
+ - Quang 6k (3 lỗi )
 ## Để làm quen với tin học, trước ta cần biết những điều cơ bản sau:
 - Cấu trúc chương trình
 - Các phép toán cơ bản
