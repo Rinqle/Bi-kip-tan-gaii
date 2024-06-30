@@ -39,7 +39,7 @@
 |       Thuật toán Sàng nguyên tố      |        https://luyencode.net/problem/sangnt    | deo co                       | O(n.log(n))      | |Thảo |
 |         Số siêu nguyên tố            |     https://luyencode.net/problem/ptit057      |   co cai l|  O(n.log(n))     | |Thảo |
 |     Tìm số nguyên tố trong mảng                   |https://luyencode.net/problem/vt09 | deo co                       |                  |
-|  Đếm số nguyên tố                    |https://luyencode.net/problem/mk119snt          |    |       |   Sàn nto + Prefix |
+|  Đếm số nguyên tố                    |https://luyencode.net/problem/mk119snt          |  https://ideone.com/j9kAb1  |       |   Sàn nto + Prefix |
 ## Mảng cộng dồn (Prefix Sum)
 - Mảng cộng dồn giúp ta dễ dàng tìm tổng của 1 đoạn dễ dàng, từ đó giúp ta giải các bài toán tìm tổng lớn nhất, tổng bé nhất, ...
 
