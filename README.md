@@ -1,4 +1,6 @@
 # Bi-kip-tan-gai
+# Hình thức
+- Hiểu đề là 1 điều rất quan trọng nên ae k đc vội, 1 bài bỏ 15p ra để hiểu thì vẫn là nhanh nên trước khi làm phải đọc thật kĩ đề
 # Lịch học
  - Đổi lại
 - Vì sau mỗi buổi học đều có 1 ngày nghỉ nên khi đến buổi học mới phảu làm qua các bài tập đã giao (cứ mỗi bài 2k). Trong trường hợp bài quá nhiều thì chỉ cần hoàn thành 1 số bài được chỉ định
