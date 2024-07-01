@@ -50,6 +50,7 @@
 |       Bài tập     | Link      |     Code        | Độ phức tạp     | Đã nộp |
 | :------------:|:-------------:|:-------------:|:-----:|:-----:|
 |Duyên Hải 2021 - Khối 10 - Bài 1 - Bài dễ| https://oj.vnoi.info/problem/dhbb21_easytask|  deo co | O(n)  | 
+|Dãy con liên tiếp có tổng lớn nhất       | http://qboj.zapto.org/problem/sumarrmax|
 ## Tìm kiếm nhị phân (Binary Search)
 ## Làm quen với vector,map
 
