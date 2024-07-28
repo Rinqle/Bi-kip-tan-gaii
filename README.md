@@ -7,7 +7,7 @@
 # Phạt :
  - Thảo  2k (1 lỗi )
  - Chip  6k (3 lỗi)
- - Quang 6k (3 lỗi )
+ - Quang 8k (4 lỗi )
 ## Để làm quen với tin học, trước ta cần biết những điều cơ bản sau:
 - Cấu trúc chương trình
 - Các phép toán cơ bản
