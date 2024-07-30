@@ -53,6 +53,12 @@
 |Dãy con liên tiếp có tổng lớn nhất(bản dễ)    | http://qboj.zapto.org/problem/sumarrmax|
 |  Dãy con liên tiếp có tổng lớn nhất(bản khó) | https://cses.fi/problemset/task/1643|
 |  GIRLS                                       | https://oj.vnoi.info/problem/bedao_m06_girls  |  
+
+## Mảng 2 chiều 
+|       Bài tập     | Link      |     Code        | Độ phức tạp     | Đã nộp |
+| :------------:|:-------------:|:-------------:|:-----:|:-----:|
+
+
 ## Tìm kiếm nhị phân (Binary Search)
 ## Làm quen với vector,map
 
