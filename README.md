@@ -57,6 +57,7 @@
 ## Mảng 2 chiều 
 |       Bài tập     | Link      |     Code        | Độ phức tạp     | Đã nộp |
 | :------------:|:-------------:|:-------------:|:-----:|:-----:|
+| Tổng lớn nhất | https://lqdoj.edu.vn/problem/qnisummax  |
 
 
 ## Tìm kiếm nhị phân (Binary Search)
