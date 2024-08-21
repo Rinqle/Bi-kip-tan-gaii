@@ -58,6 +58,7 @@
 |       Bài tập     | Link      |     Code        | Độ phức tạp     | Đã nộp |
 | :------------:|:-------------:|:-------------:|:-----:|:-----:|
 | Tổng lớn nhất | https://lqdoj.edu.vn/problem/qnisummax  |
+|  | https://lqdoj.edu.vn/problem/thtkvmtbc1 |
 
 
 ## Tìm kiếm nhị phân (Binary Search)
