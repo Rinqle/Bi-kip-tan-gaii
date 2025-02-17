@@ -1,10 +1,10 @@
 # Bi-kip-tan-gai
 
-## Để làm quen với tin học, trước ta cần biết những điều cơ bản sau:
+## Những điều cơ bản :
 - Cấu trúc chương trình
 - Các phép toán cơ bản
 - Vòng lặp for,while
-- Câu lệnh if then
+- Câu lệnh if else 
 - Các phép so sánh
 
 
@@ -18,18 +18,18 @@
 ## Làm quen với thuật toán chứng minh nguyên tố:
 - Sàng từ 1 tới n, nếu có nhiều hơn 2 ước thì n không phải nguyên tố (thuật toán đơn giản)
 - Sàng từ 1 đến căn của n, nếu n là số chính phương ta trừ đi 1 trường hợp ước (dùng cho các bài toán xác định tính nguyên tố của ít số)
-- Sàng eratosthenes ( áp dụng bài toán xac định tính nguyên tố của nhiều số)
+- Sàng nguyên tố ( áp dụng bài toán xac định tính nguyên tố của nhiều số)
   - Link tài liệu : https://youtu.be/TTV8r1NCzo0?si=rkqsYSPHQ0vORwk6
 
 
  
 |       Bài tập     | Link      |     Code        | Độ phức tạp     | Đã nộp |
 | :------------:|:-------------:|:-------------:|:-----:|:-----:|
-|      Kiểm tra số nguyên tố           |        https://luyencode.net/problem/vl11      |  co cai l |   O(sqrt(n))     | |Thảo |
-|     Tìm ước nguyên tố lớn nhất       |https://luyencode.net/problem/uocmax            | co cai l  | O(sqrt(n))       | |Chip |
-|   Số ước nguyên tố                   |https://luyencode.net/problem/thpttd_67         |  co  cai l |      O(sqrt(n))  | |Thảo |
-|       Thuật toán Sàng nguyên tố      |        https://luyencode.net/problem/sangnt    | deo co                       | O(n.log(n))      | |Thảo |
-|         Số siêu nguyên tố            |     https://luyencode.net/problem/ptit057      |   co cai l|  O(n.log(n))     | |Thảo |
+|      Kiểm tra số nguyên tố           |        https://luyencode.net/problem/vl11      |  co cai l |   O(sqrt(n))     | | |
+|     Tìm ước nguyên tố lớn nhất       |https://luyencode.net/problem/uocmax            | co cai l  | O(sqrt(n))       | | |
+|   Số ước nguyên tố                   |https://luyencode.net/problem/thpttd_67         |  co  cai l |      O(sqrt(n))  | | |
+|       Thuật toán Sàng nguyên tố      |        https://luyencode.net/problem/sangnt    | deo co                       | O(n.log(n))      | | |
+|         Số siêu nguyên tố            |     https://luyencode.net/problem/ptit057      |   co cai l|  O(n.log(n))     | | |
 |     Tìm số nguyên tố trong mảng                   |https://luyencode.net/problem/vt09 | deo co                       |                  |
 |  Đếm số nguyên tố                    |https://luyencode.net/problem/mk119snt          |  https://ideone.com/j9kAb1  |       |   Sàn nto + Prefix |
 ## Mảng cộng dồn (Prefix Sum)
