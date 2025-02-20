@@ -14,7 +14,7 @@
 |       Bài tập     | Link      |     Code        | Độ phức tạp     | Đã nộp |
 | :------------:|:-------------:|:-------------:|:-----:|:-----:|
 |Phần tử xuất hiện nhiều nhất| https://luyencode.net/problem/maxfreq | deo co |
-|Loai ki tu| https://nbk.homes/problem/strmax | deo co |
+|          Loại kí tự        | https://nbk.homes/problem/strmax      | deo co |
 
 ## Làm quen với thuật toán chứng minh nguyên tố:
 - Sàng từ 1 tới n, nếu có nhiều hơn 2 ước thì n không phải nguyên tố (thuật toán đơn giản)
@@ -27,6 +27,7 @@
 |       Bài tập     | Link      |     Code        | Độ phức tạp     | Đã nộp |
 | :------------:|:-------------:|:-------------:|:-----:|:-----:|
 |      Kiểm tra số nguyên tố           |        https://luyencode.net/problem/vl11      |  co cai l |   O(sqrt(n))     | | |
+|               CSNTO                  |        https://nbk.homes/problem/csnto         |  co cai l |                  | | |
 |     Tìm ước nguyên tố lớn nhất       |https://luyencode.net/problem/uocmax            | co cai l  | O(sqrt(n))       | | |
 |   Số ước nguyên tố                   |https://luyencode.net/problem/thpttd_67         |  co  cai l |      O(sqrt(n))  | | |
 |       Thuật toán Sàng nguyên tố      |        https://luyencode.net/problem/sangnt    | deo co                       | O(n.log(n))      | | |
