@@ -34,19 +34,21 @@
 |     Tìm số nguyên tố trong mảng                 |  https://luyencode.net/problem/vt09          | deo c                       |                 |                      |
 |  Đếm số nguyên tố                               |  https://luyencode.net/problem/mk119snt      |  https://ideone.com/j9kAb1  |                 |   Sàn nto + Prefix   |
 |  Tìm số nguyên tố gần nhất                      |  https://nbk.homes/problem/supernto          |                             |                 |                    |
+
+
+
 ## Mảng cộng dồn (Prefix Sum)
 - Mảng cộng dồn giúp ta dễ dàng tìm tổng của 1 đoạn dễ dàng, từ đó giúp ta giải các bài toán tìm tổng lớn nhất, tổng bé nhất, ...
 
-
-
 |                   Bài tập                       |                  Link                        |       Code                  |   Độ phức tạp   |     Dạng bài         |
 | :----------------------------------------------:|:--------------------------------------------:|:---------------------------:|:---------------:|:--------------------:|
-|TUONGDAI - Tượng Đài Bác Hồ                      | https://luyencode.net/problem/tuongdai       | co cai l                    |                 |                      | 
-|KSUM - Món quà của thầy Kiên                     | https://luyencode.net/problem/ksum           |                             |                 |                      |
+|TUONGDAI - Tượng Đài Bác Hồ                      | https://luyencode.net/problem/tuongdai       | co cai l                    |                 |   Prefix Sum         | 
+|KSUM - Món quà của thầy Kiên                     | https://luyencode.net/problem/ksum           |                             |                 |   Prefix Sum         |
 |Duyên Hải 2021 - Khối 10 - Bài 1 - Bài dễ        | https://oj.vnoi.info/problem/dhbb21_easytask |  deo co                     | O(n)            |                      |
 |Dãy con liên tiếp có tổng lớn nhất(bản dễ)       | http://qboj.zapto.org/problem/sumarrmax      |                             |                 |                      |
-|  Dãy con liên tiếp có tổng lớn nhất(bản khó)    | https://cses.fi/problemset/task/1643         |                             |                 |                      |
+|  Dãy con liên tiếp có tổng lớn nhất(bản khó)    | https://cses.fi/problemset/task/1643         |                             |                 |  Thuật toán kadane   |
 |  GIRLS                                          | https://oj.vnoi.info/problem/bedao_m06_girls |                             |                 |                      |
+| Công Chúa và Thỏ Ngọc (truy vấn loại 2)         | https://nbk.homes/problem/bfprincess2        |                             |                 |  Prefix Sum 2 chiều  |
 
 
 
