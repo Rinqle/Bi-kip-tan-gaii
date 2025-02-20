@@ -11,7 +11,7 @@
 ## Bài tập phụ :
 ### Đếm số lần xuất hiện 
 
-|       Bài tập     | Link      |     Code        | Độ phức tạp     | Đã nộp |
+|       Bài tập     | Link      |     Code        | Độ phức tạp     | Dạng bài |
 | :------------:|:-------------:|:-------------:|:-----:|:-----:|
 |Phần tử xuất hiện nhiều nhất| https://luyencode.net/problem/maxfreq | deo co |
 
@@ -23,7 +23,7 @@
 
 
  
-|       Bài tập     | Link      |     Code        | Độ phức tạp     | Đã nộp |
+|       Bài tập     | Link      |     Code        | Độ phức tạp     | Dạng bài |
 | :------------:|:-------------:|:-------------:|:-----:|:-----:|
 |      Kiểm tra số nguyên tố           |        https://luyencode.net/problem/vl11      |  co cai l |   O(sqrt(n))     | | |
 |               CSNTO                  |        https://nbk.homes/problem/csnto         |  co cai l |                  | | |
@@ -39,9 +39,9 @@
 
 
 
-|       Bài tập     | Link      |     Code        | Độ phức tạp     | Đã nộp |
+|       Bài tập     | Link      |     Code        | Độ phức tạp     | Dạng bài |
 | :------------:|:-------------:|:-------------:|:-----:|:-----:|
-|TUONGDAI - Tượng Đài Bác Hồ                   | https://luyencode.net/problem/tuongdai|
+|TUONGDAI - Tượng Đài Bác Hồ                   | https://luyencode.net/problem/tuongdai| co cai l |        | | 
 |KSUM - Món quà của thầy Kiên                  | https://luyencode.net/problem/ksum    |
 |Duyên Hải 2021 - Khối 10 - Bài 1 - Bài dễ     | https://oj.vnoi.info/problem/dhbb21_easytask|  deo co | O(n)  | 
 |Dãy con liên tiếp có tổng lớn nhất(bản dễ)    | http://qboj.zapto.org/problem/sumarrmax|
@@ -53,13 +53,13 @@
 
 ## Tìm kiếm nhị phân (Binary Search)
 ## vector,map
-|       Bài tập     | Link          |     Code        | Độ phức tạp     | Đã nộp |
+|       Bài tập     | Link          |     Code        | Độ phức tạp     | Dạng bài |
 | :----------------:|:-------------:|:---------------:|:---------------:|:------:|
 |          Loại kí tự        | https://nbk.homes/problem/strmax      | deo co |
 ### Tài liệu về vector
 https://ideone.com/IFgQj3
 ## Mảng 2 chiều 
-|       Bài tập     | Link      |     Code        | Độ phức tạp     | Đã nộp |
+|       Bài tập     | Link      |     Code        | Độ phức tạp     | Dạng bài |
 | :------------:|:-------------:|:-------------:|:-----:|:-----:|
 | Tổng lớn nhất | https://lqdoj.edu.vn/problem/qnisummax  |
 |  | https://lqdoj.edu.vn/problem/thtkvmtbc1 |
