@@ -14,6 +14,7 @@
 |       Bài tập     | Link      |     Code        | Độ phức tạp     | Đã nộp |
 | :------------:|:-------------:|:-------------:|:-----:|:-----:|
 |Phần tử xuất hiện nhiều nhất| https://luyencode.net/problem/maxfreq | deo co |
+|Loai ki tu| https://nbk.homes/problem/strmax | deo co |
 
 ## Làm quen với thuật toán chứng minh nguyên tố:
 - Sàng từ 1 tới n, nếu có nhiều hơn 2 ước thì n không phải nguyên tố (thuật toán đơn giản)
