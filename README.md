@@ -14,7 +14,6 @@
 |       Bài tập     | Link      |     Code        | Độ phức tạp     | Đã nộp |
 | :------------:|:-------------:|:-------------:|:-----:|:-----:|
 |Phần tử xuất hiện nhiều nhất| https://luyencode.net/problem/maxfreq | deo co |
-|          Loại kí tự        | https://nbk.homes/problem/strmax      | deo co |
 
 ## Làm quen với thuật toán chứng minh nguyên tố:
 - Sàng từ 1 tới n, nếu có nhiều hơn 2 ước thì n không phải nguyên tố (thuật toán đơn giản)
@@ -34,6 +33,7 @@
 |         Số siêu nguyên tố            |     https://luyencode.net/problem/ptit057      |   co cai l|  O(n.log(n))     | | |
 |     Tìm số nguyên tố trong mảng                   |https://luyencode.net/problem/vt09 | deo co                       |                  |
 |  Đếm số nguyên tố                    |https://luyencode.net/problem/mk119snt          |  https://ideone.com/j9kAb1  |       |   Sàn nto + Prefix |
+|  Tìm số nguyên tố gần nhất           |https://nbk.homes/problem/supernto              |                             |       |                    |
 ## Mảng cộng dồn (Prefix Sum)
 - Mảng cộng dồn giúp ta dễ dàng tìm tổng của 1 đoạn dễ dàng, từ đó giúp ta giải các bài toán tìm tổng lớn nhất, tổng bé nhất, ...
 
@@ -41,6 +41,8 @@
 
 |       Bài tập     | Link      |     Code        | Độ phức tạp     | Đã nộp |
 | :------------:|:-------------:|:-------------:|:-----:|:-----:|
+|TUONGDAI - Tượng Đài Bác Hồ                   | https://luyencode.net/problem/tuongdai|
+|KSUM - Món quà của thầy Kiên                  | https://luyencode.net/problem/ksum    |
 |Duyên Hải 2021 - Khối 10 - Bài 1 - Bài dễ     | https://oj.vnoi.info/problem/dhbb21_easytask|  deo co | O(n)  | 
 |Dãy con liên tiếp có tổng lớn nhất(bản dễ)    | http://qboj.zapto.org/problem/sumarrmax|
 |  Dãy con liên tiếp có tổng lớn nhất(bản khó) | https://cses.fi/problemset/task/1643|
@@ -50,7 +52,10 @@
 
 
 ## Tìm kiếm nhị phân (Binary Search)
-## Làm quen với vector,map
+## vector,map
+|       Bài tập     | Link          |     Code        | Độ phức tạp     | Đã nộp |
+| :----------------:|:-------------:|:---------------:|:---------------:|:------:|
+|          Loại kí tự        | https://nbk.homes/problem/strmax      | deo co |
 ### Tài liệu về vector
 https://ideone.com/IFgQj3
 ## Mảng 2 chiều 
