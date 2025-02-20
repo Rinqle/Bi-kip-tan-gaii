@@ -42,11 +42,11 @@
 
 |                   Bài tập                       |                  Link                        |       Code                  |   Độ phức tạp   |     Dạng bài         |
 | :----------------------------------------------:|:--------------------------------------------:|:---------------------------:|:---------------:|:--------------------:|
-|TUONGDAI - Tượng Đài Bác Hồ                      | https://luyencode.net/problem/tuongdai       |https://ideone.com/SS89WR    |                 |   Prefix Sum         | 
-|KSUM - Món quà của thầy Kiên                     | https://luyencode.net/problem/ksum           |https://ideone.com/QTr24S    |                 |   Prefix Sum         |
+|TUONGDAI - Tượng Đài Bác Hồ                      | https://luyencode.net/problem/tuongdai       |https://ideone.com/SS89WR    | O(n)            |   Prefix Sum         | 
+|KSUM - Món quà của thầy Kiên                     | https://luyencode.net/problem/ksum           |https://ideone.com/QTr24S    | O(n)            |   Prefix Sum         |
 |Duyên Hải 2021 - Khối 10 - Bài 1 - Bài dễ        | https://oj.vnoi.info/problem/dhbb21_easytask |https://ideone.com/I5TWvy    | O(n)            |   Prefix Sum         |
-|Dãy con liên tiếp có tổng lớn nhất(bản dễ)       | http://qboj.zapto.org/problem/sumarrmax      |                             |                 |                      |
-|  Dãy con liên tiếp có tổng lớn nhất(bản khó)    | https://cses.fi/problemset/task/1643         |                             |                 |  Thuật toán kadane   |
+|Dãy con liên tiếp có tổng lớn nhất(bản dễ)       | https://luyencode.net/problem/maxsum         |https://ideone.com/ZBTBOJ    | O(n^2)          |                      |
+|  Dãy con liên tiếp có tổng lớn nhất(bản khó)    | https://nbk.homes/problem/subseq             |https://ideone.com/qD8kNO    | O(n)            |  Thuật toán kadane   |
 |  GIRLS                                          | https://oj.vnoi.info/problem/bedao_m06_girls |                             |                 |                      |
 | Công Chúa và Thỏ Ngọc (truy vấn loại 2)         | https://nbk.homes/problem/bfprincess2        |                             |                 |  Prefix Sum 2 chiều  |
 
