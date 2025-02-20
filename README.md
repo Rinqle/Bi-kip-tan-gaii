@@ -49,6 +49,8 @@
 
 ## Tìm kiếm nhị phân (Binary Search)
 ## Làm quen với vector,map
+### Tài liệu về vector
+https://ideone.com/IFgQj3
 ## Mảng 2 chiều 
 |       Bài tập     | Link      |     Code        | Độ phức tạp     | Đã nộp |
 | :------------:|:-------------:|:-------------:|:-----:|:-----:|
