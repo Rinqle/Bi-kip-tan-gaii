@@ -43,7 +43,7 @@
 |                   Bài tập                       |                  Link                        |       Code                  |   Độ phức tạp   |     Dạng bài         |
 | :----------------------------------------------:|:--------------------------------------------:|:---------------------------:|:---------------:|:--------------------:|
 |TUONGDAI - Tượng Đài Bác Hồ                      | https://luyencode.net/problem/tuongdai       | co cai l                    |                 |   Prefix Sum         | 
-|KSUM - Món quà của thầy Kiên                     | https://luyencode.net/problem/ksum           |                             |                 |   Prefix Sum         |
+|KSUM - Món quà của thầy Kiên                     | https://luyencode.net/problem/ksum           |https://ideone.com/QTr24S    |                 |   Prefix Sum         |
 |Duyên Hải 2021 - Khối 10 - Bài 1 - Bài dễ        | https://oj.vnoi.info/problem/dhbb21_easytask |  deo co                     | O(n)            |                      |
 |Dãy con liên tiếp có tổng lớn nhất(bản dễ)       | http://qboj.zapto.org/problem/sumarrmax      |                             |                 |                      |
 |  Dãy con liên tiếp có tổng lớn nhất(bản khó)    | https://cses.fi/problemset/task/1643         |                             |                 |  Thuật toán kadane   |
