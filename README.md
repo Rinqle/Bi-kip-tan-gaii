@@ -56,6 +56,7 @@
 ## Tìm kiếm nhị phân (Binary Search)
 |                   Bài tập                       |                  Link                        |       Code                  |   Độ phức tạp   |     Dạng bài         |
 | :----------------------------------------------:|:--------------------------------------------:|:---------------------------:|:---------------:|:--------------------:|
+|     MINPOS - Vị trí nhỏ nhất                    |https://luyencode.net/problem/minpos          | https://ideone.com/qrgkyG   |                 |    Chặt nhị phân     |
 |      MIDTERM - Thi giữa kỳ                      | https://luyencode.net/problem/midterm        |                             |                 |    Chặt nhị phân     |
 |      Dãy con tăng dài nhất                      | https://nbk.homes/problem/bdlis              |                             |                 |    Chặt nhị phân     |
 
