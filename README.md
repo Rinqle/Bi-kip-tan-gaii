@@ -57,6 +57,7 @@
 |                   Bài tập                       |                  Link                        |       Code                  |   Độ phức tạp   |     Dạng bài         |
 | :----------------------------------------------:|:--------------------------------------------:|:---------------------------:|:---------------:|:--------------------:|
 |      MINPOS - Vị trí nhỏ nhất                   | https://luyencode.net/problem/minpos         |                             |                 |    Chặt nhị phân     |
+|      MIDTERM - Thi giữa kỳ                      | https://luyencode.net/problem/midterm        |                             |                 |    Chặt nhị phân     |
 
 
 
