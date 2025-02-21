@@ -25,7 +25,7 @@
  
 |                   Bài tập                       |                  Link                        |       Code                  |   Độ phức tạp   |     Dạng bài         |
 | :----------------------------------------------:|:--------------------------------------------:|:---------------------------:|:---------------:|:--------------------:|
-|      Kiểm tra số nguyên tố                      |  https://luyencode.net/problem/vl11          |  co cai l                   |   O(sqrt(n))    |                      |
+|      Kiểm tra số nguyên tố                      |  https://luyencode.net/problem/vl11          | https://ideone.com/opj9n6   |   O(sqrt(n))    |                      |
 |               CSNTO                             |  https://nbk.homes/problem/csnto             |  co cai l                   |                 |                      |
 |     Tìm ước nguyên tố lớn nhất                  |  https://luyencode.net/problem/uocmax        | co cai l                    | O(sqrt(n))      |                      |
 |   Số ước nguyên tố                              |  https://luyencode.net/problem/thpttd_67     |  co  cai l                  |      O(sqrt(n)) |                      |
