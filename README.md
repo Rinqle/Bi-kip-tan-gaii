@@ -56,11 +56,11 @@
 ## Tìm kiếm nhị phân (Binary Search)
 |                   Bài tập                       |                  Link                        |       Code                  |   Độ phức tạp   |     Dạng bài         |
 | :----------------------------------------------:|:--------------------------------------------:|:---------------------------:|:---------------:|:--------------------:|
-|     MINPOS - Vị trí nhỏ nhất                    |https://luyencode.net/problem/minpos          | https://ideone.com/qrgkyG   |                 |    Chặt nhị phân     |
-|    POTTERY - Phân xưởng gốm sứ                  | https://luyencode.net/problem/pottery        | https://ideone.com/3gMFHd   |                 | Chặt nhị phân, duyệt |
+|     MINPOS - Vị trí nhỏ nhất                    |https://luyencode.net/problem/minpos          | https://ideone.com/qrgkyG   |  O(nlogn)       |    Chặt nhị phân     |
+|      MIDTERM - Thi giữa kỳ                      | https://luyencode.net/problem/midterm        | https://ideone.com/3PsQj7   |  O(nlogn)       |    Chặt nhị phân     |
+|    POTTERY - Phân xưởng gốm sứ                  | https://luyencode.net/problem/pottery        | https://ideone.com/3gMFHd   |  O(nlogn)       | Chặt nhị phân, duyệt |
 |    BANK - Chiến lược cho vay                    | https://luyencode.net/problem/bank           | https://ideone.com/uJknLn   |                 |chặt nhị phân, prefix sum, sắp xếp|
-|      MIDTERM - Thi giữa kỳ                      | https://luyencode.net/problem/midterm        |                             |                 |    Chặt nhị phân     |
-|      Dãy con tăng dài nhất                      | https://nbk.homes/problem/bdlis              |                             |                 |    Chặt nhị phân     |
+|     Dãy con tăng dài nhất                       | https://nbk.homes/problem/bdlis              | https://ideone.com/sO3Qi8   |  O(nlogn)       |Vector, Chặt nhị phân |
 
 
 
