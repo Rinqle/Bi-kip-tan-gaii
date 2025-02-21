@@ -54,6 +54,12 @@
 
 
 ## Tìm kiếm nhị phân (Binary Search)
+|                   Bài tập                       |                  Link                        |       Code                  |   Độ phức tạp   |     Dạng bài         |
+| :----------------------------------------------:|:--------------------------------------------:|:---------------------------:|:---------------:|:--------------------:|
+|      MINPOS - Vị trí nhỏ nhất                   | https://luyencode.net/problem/minpos         |                             |                 |    Chặt nhị phân     |
+
+
+
 ### Tài liệu về vector
 https://ideone.com/IFgQj3
 ## Vector, Map, Set
