@@ -45,7 +45,7 @@
 |TUONGDAI - Tượng Đài Bác Hồ                      | https://luyencode.net/problem/tuongdai       |https://ideone.com/SS89WR    | O(n)            |   Prefix Sum         | 
 |KSUM - Món quà của thầy Kiên                     | https://luyencode.net/problem/ksum           |https://ideone.com/QTr24S    | O(n)            |   Prefix Sum         |
 |Duyên Hải 2021 - Khối 10 - Bài 1 - Bài dễ        | https://oj.vnoi.info/problem/dhbb21_easytask |https://ideone.com/I5TWvy    | O(n)            |   Prefix Sum         |
-|Dãy con liên tiếp có tổng lớn nhất(bản dễ)       | https://luyencode.net/problem/maxsum         |https://ideone.com/ZBTBOJ    | O(n^2)          |   Prefix Sum         |
+|Dãy con liên tiếp có tổng lớn nhất(bản dễ)       | https://luyencode.net/problem/maxsum         |https://ideone.com/ZBTBOJ    | O(n^2)          | Prefix Sum, duyệt    |
 |  Dãy con liên tiếp có tổng lớn nhất(bản khó)    | https://nbk.homes/problem/subseq             |https://ideone.com/qD8kNO    | O(n)            |  Thuật toán kadane   |
 |  GIRLS                                          | https://oj.vnoi.info/problem/bedao_m06_girls |https://ideone.com/vPgSnF    | O(nlogn)        |Prefix sum, 2 con trỏ |
 | Công Chúa và Thỏ Ngọc (truy vấn loại 2)         | https://nbk.homes/problem/bfprincess2        |https://ideone.com/HQIZ3r    | O(n^2)          |  Prefix Sum 2 chiều  |
@@ -57,6 +57,7 @@
 |                   Bài tập                       |                  Link                        |       Code                  |   Độ phức tạp   |     Dạng bài         |
 | :----------------------------------------------:|:--------------------------------------------:|:---------------------------:|:---------------:|:--------------------:|
 |     MINPOS - Vị trí nhỏ nhất                    |https://luyencode.net/problem/minpos          | https://ideone.com/qrgkyG   |                 |    Chặt nhị phân     |
+|    POTTERY - Phân xưởng gốm sứ                  | https://luyencode.net/problem/pottery        | https://ideone.com/3gMFHd   |                 | Chặt nhị phân, duyệt |
 |      MIDTERM - Thi giữa kỳ                      | https://luyencode.net/problem/midterm        |                             |                 |    Chặt nhị phân     |
 |      Dãy con tăng dài nhất                      | https://nbk.homes/problem/bdlis              |                             |                 |    Chặt nhị phân     |
 
