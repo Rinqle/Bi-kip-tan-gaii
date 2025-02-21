@@ -58,6 +58,7 @@
 | :----------------------------------------------:|:--------------------------------------------:|:---------------------------:|:---------------:|:--------------------:|
 |      MINPOS - Vị trí nhỏ nhất                   | https://luyencode.net/problem/minpos         |                             |                 |    Chặt nhị phân     |
 |      MIDTERM - Thi giữa kỳ                      | https://luyencode.net/problem/midterm        |                             |                 |    Chặt nhị phân     |
+|      Dãy con tăng dài nhất                      | https://nbk.homes/problem/bdlis              |                             |                 |    Chặt nhị phân     |
 
 
 
