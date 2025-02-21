@@ -58,6 +58,7 @@
 | :----------------------------------------------:|:--------------------------------------------:|:---------------------------:|:---------------:|:--------------------:|
 |     MINPOS - Vị trí nhỏ nhất                    |https://luyencode.net/problem/minpos          | https://ideone.com/qrgkyG   |                 |    Chặt nhị phân     |
 |    POTTERY - Phân xưởng gốm sứ                  | https://luyencode.net/problem/pottery        | https://ideone.com/3gMFHd   |                 | Chặt nhị phân, duyệt |
+|    BANK - Chiến lược cho vay                    | https://luyencode.net/problem/bank           | https://ideone.com/uJknLn   |                 |chặt nhị phân, prefix sum, sắp xếp|
 |      MIDTERM - Thi giữa kỳ                      | https://luyencode.net/problem/midterm        |                             |                 |    Chặt nhị phân     |
 |      Dãy con tăng dài nhất                      | https://nbk.homes/problem/bdlis              |                             |                 |    Chặt nhị phân     |
 
