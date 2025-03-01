@@ -61,7 +61,7 @@
 |    POTTERY - Phân xưởng gốm sứ                  | https://luyencode.net/problem/pottery        | https://ideone.com/3gMFHd   |  O(nlogn)       | Chặt nhị phân, duyệt |
 |    BANK - Chiến lược cho vay                    | https://luyencode.net/problem/bank           | https://ideone.com/uJknLn   |                 |chặt nhị phân, prefix sum, sắp xếp|
 |     Dãy con tăng dài nhất                       | https://nbk.homes/problem/bdlis              | https://ideone.com/sO3Qi8   |  O(nlogn)       |Vector, Chặt nhị phân |
-|    MAXDIV - Đếm đoạn chia hết                   | https://luyencode.net/problem/maxdiv         |                             |                 |chặt nhị phân         |
+|    MAXDIV - Đếm đoạn chia hết                   | https://luyencode.net/problem/maxdiv         | https://ideone.com/INsRLB   |                 |chặt nhị phân         |
 
 
 
