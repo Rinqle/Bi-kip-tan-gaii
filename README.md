@@ -63,7 +63,16 @@
 |     Dãy con tăng dài nhất                       | https://nbk.homes/problem/bdlis              | https://ideone.com/sO3Qi8   |  O(nlogn)       |Vector, Chặt nhị phân |
 |    MAXDIV - Đếm đoạn chia hết                   | https://luyencode.net/problem/maxdiv         | https://ideone.com/INsRLB   |                 |chặt nhị phân         |
 
-
+## Xử lí xâu
+|                   Bài tập                       |                  Link                        |       Code                  |   Độ phức tạp   |     Dạng bài         |
+| :----------------------------------------------:|:--------------------------------------------:|:---------------------------:|:---------------:|:--------------------:|
+|     Đếm xâu ký tự                               |https://nbk.homes/problem/strcnt              |                             |                 |       xử lí xâu      |
+|     SPACE - Đếm khoảng trắng trong chuỗi        |https://luyencode.net/problem/space           |                             |                 |      xử lí xâu       |
+|     Đếm số lần xuất hiện xâu con                |https://nbk.homes/problem/countstrab          |                             |                 |      xử lí xâu       |
+|     Xâu đối xứng chẵn                           |https://nbk.homes/problem/palineven           |                             |                 |      xử lí xâu       |
+|     CSES Repetitions                            |https://nbk.homes/problem/cses1069            |                             |                 |      xử lí xâu       |
+|     PALINZ - Truy vấn xâu đối xứng              |https://luyencode.net/problem/palinz          |                             |                 |      xâu, qhđ        |
+|     REVERSE - Đảo ngược xâu                     |https://luyencode.net/problem/reverse         |                             |                 |     xâu, sắp xếp     |
 
 ### Tài liệu về vector
 https://ideone.com/IFgQj3
