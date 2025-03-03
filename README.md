@@ -66,11 +66,11 @@
 ## Xử lí xâu
 |                   Bài tập                       |                  Link                        |       Code                  |   Độ phức tạp   |     Dạng bài         |
 | :----------------------------------------------:|:--------------------------------------------:|:---------------------------:|:---------------:|:--------------------:|
-|     Đếm xâu ký tự                               |https://nbk.homes/problem/strcnt              |                             |                 |       xử lí xâu      |
 |     SPACE - Đếm khoảng trắng trong chuỗi        |https://luyencode.net/problem/space           |                             |                 |      xử lí xâu       |
 |     Đếm số lần xuất hiện xâu con                |https://nbk.homes/problem/countstrab          |                             |                 |      xử lí xâu       |
 |     Xâu đối xứng chẵn                           |https://nbk.homes/problem/palineven           |                             |                 |      xử lí xâu       |
 |     CSES Repetitions                            |https://nbk.homes/problem/cses1069            |                             |                 |      xử lí xâu       |
+|     Đếm xâu ký tự                               |https://nbk.homes/problem/strcnt              |                             |                 |       xử lí xâu      |
 |     PALINZ - Truy vấn xâu đối xứng              |https://luyencode.net/problem/palinz          |                             |                 |      xâu, qhđ        |
 |     REVERSE - Đảo ngược xâu                     |https://luyencode.net/problem/reverse         |                             |                 |     xâu, sắp xếp     |
 
